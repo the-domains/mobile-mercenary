@@ -1,0 +1,28 @@
+name: Mobile Mercenary
+favicon: null
+layout_spectrum: 0.2931289514526725
+typography_spectrum: 0.2195171124767512
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24167914898134768
+  lightness: 0.07338121137581766
+  saturation: 0.9312970880419016
+  rhythmicContrast: 0.4766477760858834
+purpose: []
